@@ -1,11 +1,10 @@
-## Hi there 👋 I am Antonio, 
-### Front End (Web - Android) Developer with a little (or a lot) interest in Full Stack Development. 
+**Hi there 👋 I am Antonio,**
+
+_Front End Developer (web & mobile)_
 <!--
 **toniG-78/toniG-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔥 I’m currently working on my portafolio and personal projects.
-- 📚 I’m now learning React, Vue, TypeScript, Kotlin...
-- 🦷 Fun fact: I used to be a Dentist.   
+🔥 I’m currently working on my portafolio and personal projects.
 
 <br>
 <div align="left">
@@ -37,10 +36,7 @@
 
   <br>
   
-#### Contact me! or just send me a 👍
   
 <div> 
- <a href="https://www.linkedin.com/in/antonio-gonnella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:ag.dev20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/antonio-gonnella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
